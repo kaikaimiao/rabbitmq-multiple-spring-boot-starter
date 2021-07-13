@@ -39,6 +39,7 @@ public class RabbitOneConsumer {
         log.info("消息 json={}", json);
         //ack确认
         channel.basicAck(message.getMessageProperties().getDeliveryTag(), true);
+        
     }
 
    
