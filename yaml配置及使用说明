@@ -1,6 +1,8 @@
 # rabbitmq-multiple-spring-boot-starter
 用于解决springboot连接多个rabbitmq的starter
 
+使用前先对项目进行打包 install
+
 ##application.yaml的配置如下
 spring:
   rabbit:
