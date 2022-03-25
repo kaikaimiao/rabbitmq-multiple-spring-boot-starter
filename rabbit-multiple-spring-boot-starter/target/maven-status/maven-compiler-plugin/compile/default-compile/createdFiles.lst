@@ -1,5 +1,0 @@
-com\kaikai\starter\RabbitMultipleAutoConfiguration.class
-com\kaikai\starter\SecondRabbitMultipleProperties.class
-com\kaikai\starter\FirstRabbitMultipleProperties.class
-com\kaikai\starter\RootRabbitMultipleProperties.class
-com\kaikai\starter\RetryTemplateFactory.class
